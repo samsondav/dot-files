@@ -1,0 +1,6 @@
+colorscheme railscasts
+set background=dark
+set go-=r
+set go-=L
+map <Leader>m :noh<CR>
+set mouse=a

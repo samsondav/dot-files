@@ -1,0 +1,4 @@
+colorscheme solarized
+set background=dark
+set guifont=Menlo\ Regular:h12
+set gcr=n:blinkon0
